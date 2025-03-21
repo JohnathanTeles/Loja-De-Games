@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a82039b1-b7e0-4beb-8818-5a5e91428c43" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lifeclock/Lifeclock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/aa.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Protfólio/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/Bootstrap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/PHP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/background.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Protfólio/imagem/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/calculadora.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/css.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/descubraIdade.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/git.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/github.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/java.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/postgres.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/imagem/telefone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Protfólio/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Protfólio/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Protfólio/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetoCalculadora/estilo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetoCalculadora/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projetoCalculadora/script.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2uYcvmcAfh1SRJ28sNx89790Pbp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.Tomcat: LojaDeGames.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Tomcat: LojaDeGames" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="adminPort" value="8006" />
+      <option name="catalinaBase" value="C:\Users\USER\.SmartTomcat\LojaDeGames\LojaDeGames" />
+      <option name="contextPath" value="/LojaDeGames" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="port" value="8081" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/11.0.3" />
+          <option name="path" value="$PROJECT_DIR$/../../../../../apache-tomcat-11.0.3" />
+          <option name="version" value="11.0.3.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="LojaDeGames" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a82039b1-b7e0-4beb-8818-5a5e91428c43" name="Changes" comment="" />
+      <created>1742429183389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742429183389</updated>
+      <workItem from="1742429184674" duration="650000" />
+      <workItem from="1742429847228" duration="1742000" />
+      <workItem from="1742577932572" duration="428000" />
+      <workItem from="1742579895788" duration="137000" />
+      <workItem from="1742580259923" duration="2462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
